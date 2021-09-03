@@ -1,0 +1,29 @@
+body{
+  font-family: "poppins", sans-serif;
+  background: linear-gradient(to right, #ec38bc, #7303c0, #ce79ff);
+}
+
+.container {
+  height: 500px;
+  width: 80%;
+}
+
+.login {
+  position: absolute;
+  height: 500px;
+  width: 50%;
+  justify-content: center;
+  display: flex;
+  padding: 10px 0px;
+}
+
+form {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 30px;
+}
+
+.avatar img {
+  border: 2px solid white;
+  height: 150px;
+  width: 150px;
+}
